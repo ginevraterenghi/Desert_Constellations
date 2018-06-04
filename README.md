@@ -64,7 +64,7 @@ We use `mousewheel(event)` to control the mouse wheel rotation:
 ```
 #### Function mouseIsPressed
 The user can compare the deserts in each moment by pressing everywhere in the canvas. 
-![information](https://github.com/ginevraterenghi/DesertConstellations_CreativeCoding/blob/master/ReadMe_Images/Cover.jpg)
+![information](https://github.com/ginevraterenghi/Desert_Constellations/blob/master/ReadMe_Images/Cover.jpg)
 ```
 	if (mouseIsPressed) {
 		fill('#c1f4f3');
@@ -82,7 +82,7 @@ We created dots line on the bottom. There are twenty dots. Each dot represents a
 
 #### Landmark square 
 The red square works like a landmark. It starts big as the destert image and it becomes small as a dot, until it disappears. The landmark purpose is to give the proportion of each view. The first one is based on a 100 meters altitude.
-![alt text](https://github.com/ginevraterenghi/DesertConstellations/blob/master/README%20Images%20Folder/landmark-08.jpg)
+![alt text](https://github.com/ginevraterenghi/Desert_Constellations/blob/master/README%20Images%20Folder/landmark-08.jpg)
 
 #### Meter altitude
 The meters altitude label is related with the landmark square. It writes down the more accurate number that landmark square shows.
