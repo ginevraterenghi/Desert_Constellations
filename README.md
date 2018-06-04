@@ -1,6 +1,6 @@
 # DesertConstellations_CreativeCoding
 Creative Coding Final Exam
-![alt text](https://github.com/ginevraterenghi/DesertConstellations_CreativeCoding/blob/master/ReadMe_Images/Title.jpg)
+![alt text](https://github.com/ginevraterenghi/Desert_Constellations/blob/master/ReadMe_Images/Title.jpg)
 
 # Desert Constellations
 
