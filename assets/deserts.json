@@ -1,0 +1,152 @@
+{
+	"number": 20,
+	"deserts": [
+		{
+			"name": "Antarctic",
+			"range": "1.",
+			"kind": "Polar",
+			"area": "13.829.430",
+			"country": "Antarctic"
+			
+        },
+		{
+			"name": "Arctic",
+			"range": "2.",
+			"kind": "Polar",
+			"area": "13.700.000",
+			"country": "United States of America, Canada, Greenland, Iceland and    Russia"
+    },
+		{
+			"name": "Sahara",
+			"range": "3.",
+			"kind": "Subtropical",
+			"area": "8.600.000",
+			"country": "Algeria, Chad, Egypt, Libya, Mali, Niger, Mauritania, Morocco, Sudan and Tunisia"
+    },
+		{
+			"name": "Rub' al-Khali",
+			"range": "4.",
+			"kind": "Subtropical",
+			"area": "2.330.000",
+			"country": "Saudi Arabia, Jordan, Iraq, Kuwait, Qatar, United Arab Emirates, Oman and Yemen"
+    },
+
+		{
+			"name": "Gobi",
+			"range": "5.",
+			"kind": "Cold Winter",
+			"area": "1.300.000",
+			"country": "Mongolia and China"
+    },
+		{
+			"name": "Kalahari",
+			"range": "6.",
+			"kind": "Subtropical",
+			"area": "930.000",
+			"country": "Angola, Botswana, Namibia and South Africa"
+    },
+		{
+			"name": "Patagonian",
+			"range": "7.",
+			"kind": "Cold Winter",
+			"area": "673.000",
+			"country": "Argentina and Chile"
+    },
+		{
+			"name": "Syrian",
+			"range": "8.",
+			"kind": "Subtropical",
+			"area": "520.000",
+			"country": "Syria, Jordan and Iraq"
+    },
+		{
+			"name": "Chihuahua",
+			"range": "9.",
+			"kind": "Subtropical",
+			"area": "509.500",
+			"country": "Mexico and United States"
+    },
+		{
+			"name": "Great Basin",
+			"range": "10.",
+			"kind": "Cold Winter",
+			"area": "492.000",
+			"country": "United States"
+    },
+
+		{
+			"name": "Great Victoria",
+			"range": "11.",
+			"kind": "Subtropical",
+			"area": "424.400",
+			"country": "Australia"
+    },
+		{
+			"name": "Great Sandy",
+			"range": "12.",
+			"kind": "Subtropical",
+			"area": "360.000",
+			"country": "Australia"
+    },
+		{
+			"name": "Kara-Kum",
+			"range": "13.",
+			"kind": "Cold Winter",
+			"area": "350.000",
+			"country": "Turkmenistan"
+    },
+		{
+			"name": "Colorado Plateau",
+			"range": "14.",
+			"kind": "Cold Winter",
+			"area": "337.000",
+			"country": "United States"
+    },
+		{
+			"name": "Sonoran",
+			"range": "15.",
+			"kind": "Subtropical",
+			"area": "310.800",
+			"country": "Mexico and United States"
+    },
+		{
+			"name": "Kyzyl-Kum",
+			"range": "16.",
+			"kind": "Cold Winter",
+			"area": "300.000",
+			"country": "Kazakhstan, Uzbekistan and Turkmenistan"
+    },
+		{
+			"name": "Taklamakan",
+			"range": "17.",
+			"kind": "Cold Winter",
+			"area": "270.000",
+			"country": "China"
+    },
+		{
+			"name": "Thar",
+			"range": "18.",
+			"kind": "Subtropical",
+			"area": "200.000",
+			"country": "India e Pakistan"
+    },
+		{
+			"name": "Gibson",
+			"range": "19.",
+			"kind": "Subtropical",
+			"area": "115.900",
+			"country": "Australia"
+    },
+		{
+			"name": "Simpson",
+			"range": "20.",
+			"kind": "Subtropical",
+			"area": "143.000",
+			"country": "Australia"
+    }
+
+
+
+
+  ]
+}
