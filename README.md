@@ -11,7 +11,7 @@ The goal was to develop an interactive sketch ables to reproduce and explain a p
 ## Project idea
 The theme we choose is the *deserts vastness*. The user has the chance to travel from desert to desert, discovering the locations and the dimensions. The experience gives the possibility to compare the deserts and learn intresting information about them. <br/>
 We called our project *Desert Constellations* in regard to the pattern created by desert from an aerial view. The lack of water generats different kind of desolated land. They are different depending on where they are in the world. These properties recreate a lot of repetitive drawings on the Earth's surface. Each single desert has his own pattern from which it is recognizable. We have made the comparison with the star constellation. A constellation is a group of stars that are considered to form imaginary outlines or meaningful patterns on the celestial sphere. We see the star-constellation from the Earth. But, what about if we could see the Earth from the space? Deserts would seem to be the Earth's constellation.
-![alt text] (https://github.com/ginevraterenghi/Desert_Constellations/blob/master/ReadMe_Images/constellation_comparison-01.jpg)
+![alt text](https://github.com/ginevraterenghi/Desert_Constellations/blob/master/ReadMe_Images/Title.jpg)
 
 ## Dataset
 ### Information dataset
