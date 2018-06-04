@@ -32,7 +32,7 @@ The dataset we use is from [Wikipedia](https://it.wikipedia.org/wiki/Deserti_pi%
 We also create our dataset of images from [geojson.io](http://geojson.io). <br>
 We collected 10 screenshots from different altitude for each deserts and we modified them manually using a Photoshop filter.
 
-![alt text](https://github.com/ginevraterenghi/Desert_Constellations/blob/master/README%20Images%20Folder/Images_effect.jpg)
+![alt text](https://github.com/ginevraterenghi/Desert_Constellations/blob/master/ReadMe_Images/Images_effect.jpg)
 
 ## Coding
 ### Interaction
